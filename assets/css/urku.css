@@ -1227,11 +1227,11 @@ body {
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/audio-video.avif");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/audio-profesional.avif");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
