@@ -1334,6 +1334,7 @@ body {
 }
 .item-inside__meta .rk-portfolio-title,
 .item-inside__meta .rk-portfolio-category {
+  color: aliceblue;
   position: relative;
   z-index: 2;
 }
