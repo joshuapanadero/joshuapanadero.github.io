@@ -8,7 +8,7 @@
 @charset "UTF-8";
 body {
   margin: 0;
-  background-color: #787878;
+  background-color:#c0bfbf;
 }
 
 .rk-container {
@@ -54,7 +54,7 @@ body {
 }
 
 .rk-header {
-  background-color: red;
+ background-color:#c0bfbf;
   position: relative;
   z-index: 5;
 }
@@ -1642,7 +1642,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilo.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
