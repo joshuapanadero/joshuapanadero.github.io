@@ -1352,7 +1352,7 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/conjunto_of_Music.jpg");
   background-position: 50% 100%;
   background-size: 350%;
 }
@@ -2141,6 +2141,7 @@ body {
 }
 .rk-footer-menu .rk-menu__link {
   padding-bottom: 0;
+  color: white;
 }
 
 .rk-categories-menu {
