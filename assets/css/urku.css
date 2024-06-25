@@ -1368,7 +1368,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fenta.jpeg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1643,7 +1643,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/fentanilo.jpg");
+  background-image: url("../img/fenta.jpeg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
