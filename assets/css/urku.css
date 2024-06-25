@@ -1334,7 +1334,7 @@ body {
 }
 .item-inside__meta .rk-portfolio-title,
 .item-inside__meta .rk-portfolio-category {
-  color: aliceblue;
+  color: rgb(8, 7, 51);
   position: relative;
   z-index: 2;
 }
@@ -1368,7 +1368,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/fenta.jpeg");
+  background-image: url("../img/pld.webp");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1621,7 +1621,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/fenta.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-7 {
@@ -1673,7 +1673,7 @@ body {
 }
 
 .post-5 {
-  background-image: url("../img/fentanilo.jpg");
+  background-image: url("../img/fenta.jpeg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
